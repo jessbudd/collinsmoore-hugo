@@ -1,7 +1,7 @@
 baseurl = "firefly-collinsmoore.netlify.com"
 title = "Collins Moore Accountants"
-theme = "Firefly Web Design"
-themesDir = "../.."
+theme = "hugo-universal-theme"
+themesDir = "../themes"
 languageCode = "en-au"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
