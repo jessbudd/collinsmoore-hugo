@@ -1,4 +1,4 @@
-baseurl = "firefly-collinsmoore.netlify.com"
+baseurl = "/"
 title = "Collins Moore Accountants"
 theme = "hugo-universal-theme"
 themesDir = "./themes"
